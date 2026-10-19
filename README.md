@@ -32,4 +32,4 @@ Then open <http://localhost:3000>.
 
 ---
 
-Looking for my professional work in software and AI automation? See my [GitHub profile](https://github.com/Casanovaofficial).
+Looking for my professional work in software and AI automation? See my [GitHub profile](https://github.com/ErickCasanova).
